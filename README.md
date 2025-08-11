@@ -1,3 +1,4 @@
 #New Project
 This project was created from local system
-Created by Adam Smith
+Created by Adam Smith.
+From Washington DC
